@@ -1,2 +1,2 @@
-# Searchcademy Project
+# Searchcademy Binary Search Project
 Iterative 
